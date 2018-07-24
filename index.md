@@ -6,34 +6,34 @@
 * 邮箱：[56526863@qq.com](mailto:56526863@qq.com)
 * 电话：13889823348
 
-### Markdown
+### 工作经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* * *
 
-```markdown
-Syntax highlighted code block
+## 销售经理
 
-# Header 1
-## Header 2
-### Header 3
+07年到11年3月在四星级酒店做房间销售工作，负责公司客房预订以及旅行社订团队订房、会议布展等。
+酒店里的职务是销售经理。
 
-- Bulleted
-- List
+## 大众点评冠军销售经理
 
-1. Numbered
-2. List
+最近一次是在点评网工作7年。
+11年4月至今在大众点评做销售工作，在工作期间曾负责，丽人，酒店、婚纱摄影、以及休闲娱乐和生活服务项目，在休闲娱乐部门里每月都是沈阳的收款冠军，并在17年东北区域收款冠军，每月平均工资在18000-25000之间。
 
-**Bold** and _Italic_ and `Code` text
+### 沟通经历
 
-[Link](url) and ![Image](src)
-```
+* * *
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* 成功与与沈阳市金碧海洋之星度假酒店达成合作。
+* 成功与沈阳市善水荟洗浴中心达成合作。
+* 成功与大江南、绿波廊等客户达成合作。
 
-### Jekyll Themes
+### 特长爱好
+* * *
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanxiuuuu/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 有很好的沟通能力。
+* 亲和力强能很好的维护客情关系。
+* 有丰富的谈判经验技巧。
+* 会小提琴，喜欢古典音乐，也喜欢80年代经典摇滚。
+* 擅长冲浪、马术、高尔夫球、跳伞等运动。
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
